@@ -1,0 +1,4 @@
+venv
+*.png
+nlp_model
+__pycache__
